@@ -1,0 +1,5 @@
+{
+  "name": "Image Joke Generator",
+  "description": "Upload an image and let AI generate a hilarious joke about it. A fun way to see the lighter side of your photos.",
+  "requestFramePermissions": []
+}
