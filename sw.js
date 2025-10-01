@@ -1,3 +1,4 @@
+// /sw.js
 const CACHE_NAME = 'image-joke-generator-v1';
 const urlsToCache = [
   '/',
